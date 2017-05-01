@@ -9,3 +9,4 @@ This is a simple landing page where math courses are available.
 
 ## Live Version
 
+https://bgabor91.github.io/mathwebsite/
